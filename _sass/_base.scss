@@ -19,6 +19,8 @@ table {
   td {
     font-size: 1rem;
   }
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a, table.table a {
@@ -76,6 +78,9 @@ blockquote {
   .card-item {
     width: auto;
     margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 
     .row {
       display: flex;
@@ -93,6 +98,7 @@ blockquote {
 // Profile
 
 .profile {
+  margin-left: 1rem;
   width: 100%;
 
   .address {
@@ -104,12 +110,6 @@ blockquote {
       margin: 0;
     }
   }
-}
-.profile.float-right{
-  margin-left: 1rem;
-}
-.profile.float-left{
-  margin-right: 1rem;
 }
 
 @media (min-width: 576px) {
@@ -170,6 +170,9 @@ blockquote {
   }
   .navbar-brand {
     color: var(--global-text-color);
+    &:hover {
+      color: var(--global-hover-color);
+    }
   }
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
@@ -301,14 +304,13 @@ footer.sticky-bottom {
 
 .cv {
   margin-bottom: 40px;
-  
+
   .card {
     background-color: var(--global-card-bg-color);
     border: 1px solid var(--global-divider-color);
-    
+
     .list-group-item {
       background-color: inherit;
-      border-color: var(--global-divider-color);
 
       .badge {
         color: var(--global-card-bg-color) !important;
@@ -450,7 +452,7 @@ footer.sticky-bottom {
     margin-bottom: 10px;
   }
 
-  h2.category {
+  h5.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
     padding-top: 0.5rem;
@@ -557,18 +559,6 @@ footer.sticky-bottom {
           }
         }
       }
-      .badges {
-        span {
-          display: inline-block;
-          color: $black-color;
-          height: 100%;
-          padding-left: 0.5rem;
-          vertical-align: middle;
-          &:hover {
-            text-decoration: underline;
-          }
-        }
-      }
       .hidden {
         font-size: 0.875rem;
         max-height: 0px;
@@ -669,58 +659,3 @@ html.transition *:after {
     }
   }
 }
-
-progress {
-     /* Positioning */
-     position: fixed;
-     left: 0;
-     top: 56px;
-     z-index: 10;
-   
-     /* Dimensions */
-     width: 100%;
-     height: 1px;
-   
-     /* Reset the appearance */
-     -webkit-appearance: none;
-        -moz-appearance: none;
-             appearance: none;
-   
-     /* Get rid of the default border in Firefox/Opera. */
-     border: none;
-   
-     /* Progress bar container for Firefox/IE10  */
-     background-color: transparent;
-   
-     /* Progress bar value for IE10  */
-     color: var(--global-theme-color);
- }
- 
- progress::-webkit-progress-bar {
-     background-color: transparent;
- }
-   
- progress::-webkit-progress-value {
-     background-color: var(--global-theme-color);
- }
-   
- progress::-moz-progress-bar {
-     background-color: var(--global-theme-color);
- }
- 
- .progress-container {
-     width: 100%;
-     background-color: transparent;
-     position: fixed;
-     top: 56px;
-     left: 0;
-     height: 5px;
-     display: block;
- }
- 
- .progress-bar {
-     background-color: var(--global-theme-color);
-     width: 0%;
-     display: block;
-     height: inherit;
- }
