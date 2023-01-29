@@ -17,7 +17,7 @@ table {
     color: var(--global-text-color);
   }
   td {
-    font-size: 1rem;
+    font-size: 0.875rem;
   }
   margin-left: auto;
   margin-right: auto;
@@ -138,9 +138,9 @@ blockquote {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
+  border-bottom: 2px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.95;
+  opacity: 0.8;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);

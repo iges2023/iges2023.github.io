@@ -19,7 +19,7 @@ This symposium provides an excellent opportunity to showcase and promote innovat
 
 We invite researchers and engineers interested in incorporating sustainability concepts into geotechnical engineering theory and practice. Interdisciplinary research that transcends traditional disciplinary boundaries and brings new insights into geotechnical engineering fields are welcome.
 
-This workshop will be an **in-person event** at PolyU, taking place on **Dec 1nd 2022**. The session will cover invited talks, contributed talks, posters, and a panel discussion.
+This workshop will be held at **The Hong Kong Polytechnic University (PolyU)** at 1-2 Dec 2023. 
 
 ## Key dates
 
@@ -29,38 +29,14 @@ This workshop will be an **in-person event** at PolyU, taking place on **Dec 1nd
 
 * Conference day: **Dec 1 ~ 2, 2023**
 
-## Keynote speakers
-
-* TBC
-
-## Organizers
-
-<div class="row justify-content-left">
-<div class="col-sm-2 pt-5 pb-5">
-  {% include people.html name="Jian-Hua Yin" affiliation="Honorary Chair" url="https://www.polyu.edu.hk/cee/people/academic-staff/prof-jian-hua-yin/" img="/assets/img/people/jianhua_yin.png" %}
-</div>
-<div class="col-sm-2 pt-5 pb-5">
-{% include people.html name="Zhen-Yu Yin" affiliation="Chair" url="https://www.polyu.edu.hk/cee/people/academic-staff/dr-zhen-yu-yin/" img="/assets/img/people/zhenyu_yin.png" %}
-</div>
-<div class="col-sm-2 pt-5 pb-5">
-  {% include people.html name="Chao Zhou" affiliation="Chair" url="https://www.polyu.edu.hk/cee/people/academic-staff/dr-c-zhou/" img="/assets/img/people/chao_zhou.png" %}
-</div>
-<div class="col-sm-2 pt-5 pb-5">
-{% include people.html name="Qi Zhao" affiliation="Chair" url="https://www.polyu.edu.hk/cee/people/academic-staff/dr-zhao-qi/" img="assets/img/people/qi_zhao.png" %}
-</div>
-<div class="col-sm-2 pt-5 pb-5">
-{% include people.html name="Weijian Liang" affiliation="Secretary" img="assets/img/people/weijian_liang.png" url="https://www.polyu.edu.hk/cee/people/academic-staff/dr-liang-weijian/" %}
-</div>
-<div class="w-100"></div>
-</div>
 
 
-* CEE, PolyU
-* TBC
 
 
-## Contact
-For any questions, please contact us at [iges.2023dec@polyu.edu.hk](mailto:iges.2023dec@polyu.edu.hk).
+#### Enquiries:
+For any questions, please contact us at: <br/>
+Email: [iges.2023dec@polyu.edu.hk](mailto:iges.2023dec@polyu.edu.hk)<br/>
+Tel: +852 2766 6025
 
 
 
