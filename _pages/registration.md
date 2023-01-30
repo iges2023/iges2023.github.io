@@ -27,14 +27,35 @@ We encourage submissions that relate (but not limited) to the following topics:
 
 ### Submission details
 
-We invite researchers to submit their recent work on the development, analysis, or application of score-based methods. A submission should take the form of a short paper of **tbc** format using the "Tbc" Additional pages containing references and appendices are allowed. For questions and troubleshooting of the template, visit CTAN.
-
-The review process will be double-blind. Author names need to be anonymized and references/appendices may extend as far as needed beyond the **x-page upper limit**. Submissions may include a supplement/appendix, but reviewers are not responsible for reading any supplementary material.
-
+A submission should take the form of a short paper of **tbc** format using the "Tbc". Additional pages containing references and appendices are allowed. 
 All accepted submissions will be invited for a contributed oral presentation.
 
-### Payment
-Here is the payment detail.
+### Registration fees
+
+| **TYPE**{: .h5} | **HKD**{: .h5} |
+| :-----: | :-----: |
+| **Early registration**| tbc |
+| **Normal registration**| tbc |
+| **Student**| tbc |
+| **Vistor**| tbc |
+{: .table}
+{: .table-striped}
+
+
+### Payment methods
+ * Credit Card
+ * Bank tran
+
+
+
+
+
+
+
+
+
+
+
 
 -----
 **Enquiries:**<br/>
