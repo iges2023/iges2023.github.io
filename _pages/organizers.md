@@ -6,11 +6,11 @@ nav: true
 nav_order: 1
 ---
 
-### Honorary Chair: 
+#### Honorary Chair: 
 
-[Prof. Jian-Hua Yin]("https://www.polyu.edu.hk/cee/people/academic-staff/prof-jian-hua-yin/")
+[Prof. Jian-Hua Yin](https://www.polyu.edu.hk/cee/people/academic-staff/prof-jian-hua-yin/)
 
-### Chairs:
+#### Chairs:
 
 [Prof. Zhen-Yu Yin](https://www.polyu.edu.hk/cee/people/academic-staff/dr-zhen-yu-yin/)
 
@@ -18,7 +18,7 @@ nav_order: 1
 
 [Dr. Qi Zhao](https://www.polyu.edu.hk/cee/people/academic-staff/dr-zhao-qi/)
 
-### Secretaries:
+#### Secretaries:
 
 [Dr. Weijian Liang](https://www.polyu.edu.hk/cee/people/academic-staff/dr-liang-weijian/)
 

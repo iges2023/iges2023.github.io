@@ -9,8 +9,8 @@
   --global-text-color-light: #{$grey-color};
   //--global-theme-color: #{$purple-color};
   // --global-theme-color: #{$caltech-orange};
-  --global-theme-color: #{$green-color-dark};
-  //--global-hover-color: #{$purple-color};
+  --global-theme-color: #{$caltech-orange};
+  // --global-hover-color: #{$purple-color};
   --global-hover-color: #{$caltech-orange};
   --global-footer-bg-color: #{$grey-color-dark};
   //--global-footer-bg-color: #{$caltech-orange};
@@ -38,7 +38,7 @@
 }
 
 .header-background .img {
-  background-image: url("../img/score_contour.jpg");
+  background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center top;
@@ -80,7 +80,7 @@ html[data-theme='dark'] {
   }
 
 .header-background .img {
-  background-image: url("../img/score_contour.jpg");
+  background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center bottom;

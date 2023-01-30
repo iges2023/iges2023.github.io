@@ -11,7 +11,7 @@ description: A International Symposium on Innovations in Geotechnical Engineerin
 <!-- <h5 style="text-align:center;"><a href="https://neurips.cc/Register2">[click here for registration]</a></h5>
 <h5 style="text-align:center;"><a href="https://forms.gle/Zk9owxUBPf54DRnYA">[click here to submit your questions to our panelists]</a></h5> -->
 
-## Introduction
+### Introduction
 
 In 2015, the United Nations Member States proposed “The 2030 Agenda for Sustainable Development” with 17 Sustainable Development Goals, which is an urgent call for action. Building a sustainable society is becoming increasingly important. Geotechnical engineering, as a dynamic interface between human society and the earth system, can make significant contributions to developing innovative solutions for sustainable development. 
 
@@ -21,19 +21,27 @@ We invite researchers and engineers interested in incorporating sustainability c
 
 This workshop will be held at **The Hong Kong Polytechnic University (PolyU)** at 1-2 Dec 2023. 
 
-## Key dates
 
-* Submission deadline: **TBC**
+### Key dates
+* Submission deadline: **TBC** <br>
+* Acceptance notification: **TBC** <br>
+* Conference day: **Dec 1 ~ 2, 2023** <br>
 
-* Acceptance notification: **TBC**
+<br>
 
-* Conference day: **Dec 1 ~ 2, 2023**
+<div class="row">
+    <div class="col-sm-3 mt-4 mt-md-0">
+        {% include figure.html path="assets/img/cee-logo.png" title="" class="img-fluid " %}
+    </div>
+        <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/hkie.jpg" title="" class="img-fluid " %}
+    </div>
+    </div>
 
 
 
-
-
-#### Enquiries:
+---
+**Enquiries:** <br/>
 For any questions, please contact us at: <br/>
 Email: [iges.2023dec@polyu.edu.hk](mailto:iges.2023dec@polyu.edu.hk)<br/>
 Tel: +852 2766 6025

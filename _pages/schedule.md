@@ -32,10 +32,11 @@ nav_order: 3
 {: .table-striped}
 
 <br>
+
 ### 2 Dec 2023 ###
 
 | **Time (HKT)**{: .h5} | **Event**{: .h5} |
-| :-----: | : -----: |
+| :-----: | :-----: |
 | 8:50 | **Introduction and opening remarks** |
 | 9:00 | **Keynote**  |
 | 9:30 | **Keynote**  |
