@@ -1,13 +1,16 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: Information
+nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Travel
+      permalink: /travel/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Accommodation
+      permalink: /accommodation/
+    - title: divider
+    - title: Explore
+      permalink: /explore/
 ---

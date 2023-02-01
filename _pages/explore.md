@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Explore Hong Kong
-permalink: /Explore/
+title: Explore
+permalink: /explore/
 description: 
-nav: true
+nav: false
 nav_order: 5
 display_categories: 
 horizontal: true

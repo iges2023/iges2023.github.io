@@ -25,26 +25,36 @@ This workshop will be held at **The Hong Kong Polytechnic University (PolyU)** a
 ### Key dates
 * Submission deadline: **TBC** <br>
 * Acceptance notification: **TBC** <br>
-* Conference day: **Dec 1 ~ 2, 2023** <br>
+* Conference date: **Dec 1 ~ 2, 2023** <br>
 
 <br>
 
-<div class="row">
-    <div class="col-sm-3 mt-4 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5">
+        {% include figure.html path="assets/img/polyu-logo.png" title="" class="img-fluid " %}
+    </div>
+    <div class="col-sm-5">
         {% include figure.html path="assets/img/cee-logo.png" title="" class="img-fluid " %}
     </div>
-        <div class="col-sm-3 mt-3 mt-md-0">
+    <div class="col-sm-5">
         {% include figure.html path="assets/img/hkie.jpg" title="" class="img-fluid " %}
     </div>
+    <div class="col-sm-5">
+        {% include figure.html path="assets/img/hkges-logo.png" title="" class="img-fluid " %}
     </div>
+</div>
 
 
 
----
-**Enquiries:** <br/>
-For any questions, please contact us at: <br/>
-Email: [iges.2023dec@polyu.edu.hk](mailto:iges.2023dec@polyu.edu.hk)<br/>
-Tel: +852 2766 6025
+<br>
+
+----
+<div style="background-color:rgba(0, 0, 0, 0.0470588);padding:40px 0; vertical-align: ; padding:20px 20px;">
+<h5>Enquiries:</h5>
+<h6>For any questions, please contact us at: </h6>
+<h6>Email: iges.2023dec@polyu.edu.hk</h6>
+<h6>Tel: +852 2766 6025</h6>
+</div>
 
 
 
