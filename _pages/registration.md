@@ -18,7 +18,7 @@ nav_order: 4
 ### Abstract Submission
 
 * Abstract should be submitted to [iges.2023dec@polyu.edu.hk](mailto:iges.2023dec@polyu.edu.hk) via email. 
-* Abstract submission template - Download here (word limits: 300 words).
+* Abstract submission template - Download here (limited in one page).
 
 <br>
 
@@ -35,9 +35,9 @@ nav_order: 4
 {: .table}
 {: .table-striped}
 
-> <sup>1</sup>: Only available for early-bird and normal registration <br>
- <sup>2</sup>: One-day pass is available to local Hong Kong participants and conference dinner is not included <br>
- <sup>3</sup>: Applicable to groups of at least four people who belong to one organization or are co-authors of one paper <br>
+> <sup>1</sup> Only available for early-bird and normal registration <br>
+ <sup>2</sup> One-day pass is available to local Hong Kong participants and conference dinner is not included <br>
+ <sup>3</sup> Applicable to groups of at least four people who belong to one organization or are co-authors of one paper <br>
 
 
 <br>

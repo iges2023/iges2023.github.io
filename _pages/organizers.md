@@ -27,15 +27,10 @@ nav_order: 1
 <li><b>Dr. Weijian Liang</b>, PolyU</li>
 <li><b>Dr. Sheqiang Cui</b>, PolyU</li>
 </ul>
-</div>
-
 <br>
-
-### Scientific Committee
-
-<div style="background-color:rgba(0, 0, 0, 0.0470588);padding:40px 0; vertical-align: ; padding:30px 30px;">
 <h5>Member</h5>
 <ul>
 <li><b>To be updated</b></li>
 </ul>
 </div>
+
