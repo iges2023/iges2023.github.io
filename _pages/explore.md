@@ -4,7 +4,7 @@ title: Explore
 permalink: /explore/
 description: 
 nav: false
-nav_order: 5
+nav_order: 
 display_categories: 
 horizontal: true
 ---

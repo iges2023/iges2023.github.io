@@ -11,10 +11,12 @@ We invite researchers and engineers interested in incorporating sustainability c
 
 The conference key themes are as follows:
 
-* energy geostructures
-* sustainable geotechnical design and construction
-* smart geotechnical monitoring
-* geo-hazard mitigation
-* sustainable geo-materials
-* geo-environmental engineering
-* T.B.C.
+* Properties of geomaterials & sustainable construction materials
+* Constitutive modeling
+* Advanced numerical approaches
+* Smart geotechnical monitoring
+* Big data and artificial intelligence in geotechnics
+* Geo-energy engineering
+* Geo-environmental engineering
+* Geo-hazard assessment and mitigation
+* Sustainability and resilience of infrastructures

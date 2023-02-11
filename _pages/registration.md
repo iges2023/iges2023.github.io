@@ -8,33 +8,42 @@ nav_order: 4
 
 ### Key dates
 
-* Submission deadline: **TBC**
-* Acceptance notification: **TBC**
-* Conference date: **Dec 1-2 , 2023**
+* Abstract submission deadline: **May 31, 2023** <br>
+* Acceptance notification: **June 30, 2023** <br>
+* Early-bird registration deadline: **September 30, 2023** <br>
+* Conference: **Dec 1 - 2, 2023** <br>
   
 <br>
 
-### Submission details
-Coming soon.
+### Abstract Submission
+
+* Abstract should be submitted to [iges.2023dec@polyu.edu.hk](mailto:iges.2023dec@polyu.edu.hk) via email. 
+* Abstract submission template - Download here (word limits: 300 words).
 
 <br>
 
 ### Registration fees
 
-| **TYPE**{: .h5} | **HKD**{: .h5} |
+
+| **Type**{: .h5} | **USD**{: .h5} |
 | :-----: | :-----: |
-| **Early registration**| tbc |
-| **Normal registration**| tbc |
-| **Student**| tbc |
-| **Vistor**| tbc |
+| **Early-bird registration**| 500 |
+| **Normal registration**| 600 |
+| **Accompany person<sup>1</sup>**| 150 |
+| **One-day pass<sup>2</sup>**| 200 |
+| **For group registration<sup>3</sup>**| 20% off |
 {: .table}
 {: .table-striped}
+
+> <sup>1</sup>: Only available for early-bird and normal registration <br>
+ <sup>2</sup>: One-day pass is avialble to local Hong Kong participants and conference dinner is not included <br>
+ <sup>3</sup>: Applicable to groups of at least four people who belong to one organization or are co-authors of one paper <br>
+
 
 <br>
 
 ### Payment methods
- * Credit Card
- * Bank transfer
+ * to be updated
 
 
 

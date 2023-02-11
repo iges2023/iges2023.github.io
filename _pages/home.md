@@ -5,7 +5,7 @@ home_title: IGES 2023
 subtitle:
 nav_title: Home
 permalink: /
-description: A International Symposium on Innovations in Geotechnical Engineering towards Sustainability
+description: International Symposium on Innovations in Geotechnical Engineering towards Sustainability
 ---
 
 <!-- <h5 style="text-align:center;"><a href="https://neurips.cc/Register2">[click here for registration]</a></h5>
@@ -13,19 +13,16 @@ description: A International Symposium on Innovations in Geotechnical Engineerin
 
 ### Introduction
 
-In 2015, the United Nations Member States proposed “The 2030 Agenda for Sustainable Development” with 17 Sustainable Development Goals, which is an urgent call for action. Building a sustainable society is becoming increasingly important. Geotechnical engineering, as a dynamic interface between human society and the earth system, can make significant contributions to developing innovative solutions for sustainable development. 
+Building a sustainable society is becoming increasingly important. Geotechnical engineering, as a dynamic interface between human society and the earth system, can make significant contributions to developing innovative solutions for sustainable development. This symposium provides an excellent opportunity to showcase and promote innovations in geomechanics that facilitate energy-efficient, environment-friendly, resilient and sustainable geotechnical systems. We invite researchers and engineers interested in incorporating sustainability concepts into geotechnical engineering theory and practice. Interdisciplinary research that transcends traditional disciplinary boundaries and brings new insights into geotechnical engineering fields are welcome.
 
-This symposium provides an excellent opportunity to showcase and promote innovations in geomechanics that facilitate energy-efficient, environment-friendly, resilient and sustainable geotechnical systems. The two-day scientific program will include keynote lectures, invited lectures and parallel sessions. 
-
-We invite researchers and engineers interested in incorporating sustainability concepts into geotechnical engineering theory and practice. Interdisciplinary research that transcends traditional disciplinary boundaries and brings new insights into geotechnical engineering fields are welcome.
-
-This workshop will be held at **The Hong Kong Polytechnic University (PolyU)** at 1-2 Dec 2023. 
+This workshop will be held at **The Hong Kong Polytechnic University (PolyU)** at December 1-2, 2023. The two-day scientific program will include keynote lectures, invited lectures and parallel sessions.
 
 
 ### Key dates
-* Submission deadline: **TBC** <br>
-* Acceptance notification: **TBC** <br>
-* Conference date: **Dec 1 ~ 2, 2023** <br>
+* Abstract submission deadline: **May 31, 2023** <br>
+* Acceptance notification: **June 30, 2023** <br>
+* Early-bird registration deadline: **September 30, 2023** <br>
+* Conference: **Dec 1 - 2, 2023** <br>
 
 <br>
 

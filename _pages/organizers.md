@@ -17,6 +17,7 @@ nav_order: 1
 <h5>Co-Chair</h5>
 <ul>
 <li><b>Prof. Zhen-Yu Yin</b>, PolyU</li>
+<li><b>Prof. Andy Y.F. Leung</b>, PolyU</li>
 <li><b>Dr. Chao Zhou</b>, PolyU</li>
 <li><b>Dr. Qi Zhao</b>, PolyU</li>
 </ul>
@@ -33,12 +34,8 @@ nav_order: 1
 ### Scientific Committee
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588);padding:40px 0; vertical-align: ; padding:30px 30px;">
-<h5>Chair</h5>
-<ul>
-<li><b>T.B.C.</b></li>
-</ul>
 <h5>Member</h5>
 <ul>
-<li><b>T.B.C.</b></li>
+<li><b>To be updated</b></li>
 </ul>
 </div>

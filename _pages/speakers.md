@@ -11,8 +11,16 @@ nav_order: 3
 
 | **Speaker**{: .h5}  | **Affiliation**{: .h5}  |
 | :-----: | :-----:  |
-| speaker 1 | tbc|
-| speaker 2 | tbc  |
+| speaker 1 | t.b.c.|
 {: .table}
 {: .table-striped}
 
+<br>
+
+### Invited Speaker
+
+| **Speaker**{: .h5}  | **Affiliation**{: .h5}  |
+| :-----: | :-----:  |
+| speaker 1 | t.b.c.|
+{: .table}
+{: .table-striped}

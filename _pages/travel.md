@@ -11,30 +11,26 @@ horizontal: true
 
 
 
-Hong Kong is a special administrative region of China on the eastern Pearl River Delta in South China and takes advantage of a well structured connection system by plane, train and car.
+### Travel from Hong Kong International Airport
+
+* MTR: Take the Airport Express to from Airport to Tsing Yi Station.  Interchange at Tsing Yi Station Platform 4 towards Hong Kong.  Interchange at Nam Cheong Station Platform 2 towards Hung Hom, then take the footbridge at Exit A1 to reach our main campus. (Please refer to MTR for interchange information)
+
+* Buses: Take Cityflyer bus route A21 and get off at the terminus Hung Hom Station.
+
+* Taxis: Drop-off at the entrance on Cheong Wan Road (Taxi fare about HK$260).
 
 
-<div style="background-color:rgba(0, 0, 0, 0.0470588);padding:40px 0; vertical-align: ; padding:30px 30px;">
-<h5>Airline</h5>
-<ul>
-<a href="https://www.hongkongairport.com/en">Hong Kong International Airport</a> is on the island of Chek Lap Kok, Hong Kong, also referred to as Chek Lap Kok International Airport or Chek Lap Kok Airport.
-</ul>
-<br>
-<h5>High-speed railway </h5>
-<ul>
-High-speed railway is also a good choice.
-</ul>
-</div>
 
-<br>
 
 ### Visa
 
-Unlike traveling to Mainland China, traveling to Hong Kong for visits of less than three months is visa-free for most nationalities. Separate entry permit is required for travel from Hong Kong to Mainland China and/or to Macau. Please click [here](https://www.immd.gov.hk/eng/services/index.html) to view the visa requirements from the Immigration Department.
+Participants are strongly recommended to check for visa requirements from the Hong Kong Immigration Department website before planning your visit. Holders of passports issued by most of the developed countries are normally not required to obtain a visa to enter Hong Kong. Participant who requires visa to Hong Kong should submit their visa applications directly to the Hong Kong Immigration Department. Please allow sufficient time for visa application prior to your travel.
 
-<br>
+* Participants who are holders of foreign passports (except holders of People's Republic of China (PRC) passports and Chinese residents of Taiwan): click [here](http://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html)
 
-#### Octopus Card
 
-An electronic fare card that is accepted by almost all forms of public transport, and at many fast food chains and stores. It's easy and convenient to use, saves time and eliminates the need for small change. Please click [here](https://www.octopus.com.hk/en/consumer/index.html) for details.
+* Participants who are holders of People's Republic of China (PRC) passports and reside in Mainland China: click [here](http://www.immd.gov.hk/eng/services/visas/overseas-chinese-entry-arrangement.html#a)
+
+* Participants who are holders of People's Republic of China (PRC) passports and reside overseas, or who are Chinese residents of Taiwan: click [here](http://www.immd.gov.hk/eng/services/visas/overseas-chinese-entry-arrangement.html#c)
+
 
