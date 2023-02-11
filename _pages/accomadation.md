@@ -10,11 +10,11 @@ horizontal: true
 ---
 
 
-PolyU is located in the center city of Hong Kong, with the address of 11 Yuk Choi Rd. City: Hung Hom, Kowloon, Hong Kong. 
+PolyU is located in the center city of Hong Kong, with the address of 11 Yuk Choi Rd. City, Hung Hom, Kowloon, Hong Kong. 
 
 <br>
 
-#### Recommended hotels
+#### Recommended Hotels
 
 [Hotel ICON](http://www.hotel-icon.com) <br>
 Address:  17 Science Museum Road, Tsim Sha Tsui East, Kowloon, Hong Kong <br> 

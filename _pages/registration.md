@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-### Key dates
+### Key Dates
 
 * Abstract submission deadline: **May 31, 2023** <br>
 * Acceptance notification: **June 30, 2023** <br>
@@ -15,14 +15,14 @@ nav_order: 4
   
 <br>
 
-### Abstract submission
+### Abstract Submission
 
 * Abstract should be submitted to [iges.2023dec@polyu.edu.hk](mailto:iges.2023dec@polyu.edu.hk) via email. 
 * Abstract submission template - Download here (word limits: 300 words).
 
 <br>
 
-### Registration fees
+### Registration Fees
 
 
 | **Type**{: .h5} | **USD**{: .h5} |
@@ -42,7 +42,7 @@ nav_order: 4
 
 <br>
 
-### Payment methods
+### Payment Methods
  * to be updated
 
 
