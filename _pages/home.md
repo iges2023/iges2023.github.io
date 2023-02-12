@@ -22,7 +22,7 @@ This workshop will be held on **December 1-2, 2023** at **The Hong Kong Polytech
 * Abstract submission deadline: **May 31, 2023** <br>
 * Acceptance notification: **June 30, 2023** <br>
 * Early-bird registration deadline: **September 30, 2023** <br>
-* Conference: **Dec 1 - 2, 2023** <br>
+* Conference: **December 1 - 2, 2023** <br>
 
 <br>
 

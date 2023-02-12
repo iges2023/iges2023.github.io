@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /committee/
-title: Committee
+permalink: /organizer/
+title: Organizer
 nav: true
 nav_order: 1
 ---
@@ -34,3 +34,19 @@ nav_order: 1
 </ul>
 </div>
 
+<br>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-5">
+        {% include figure.html path="assets/img/polyu-logo.png" title="" class="img-fluid " %}
+    </div>
+    <div class="col-sm-5">
+        {% include figure.html path="assets/img/cee-logo.png" title="" class="img-fluid " %}
+    </div>
+    <div class="col-sm-5">
+        {% include figure.html path="assets/img/hkie.jpg" title="" class="img-fluid " %}
+    </div>
+    <div class="col-sm-5">
+        {% include figure.html path="assets/img/hkges-logo.png" title="" class="img-fluid " %}
+    </div>
+</div>
