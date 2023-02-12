@@ -17,7 +17,7 @@ nav_order: 1
 <h5>Co-Chair</h5>
 <ul>
 <li><b>Prof. Zhen-Yu Yin</b>, PolyU</li>
-<li><b>Prof. Andy Y.F. Leung</b>, PolyU</li>
+<li><b>Dr. Andy Y.F. Leung</b>, PolyU</li>
 <li><b>Dr. Chao Zhou</b>, PolyU</li>
 <li><b>Dr. Qi Zhao</b>, PolyU</li>
 </ul>
