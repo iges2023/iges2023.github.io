@@ -29,8 +29,8 @@ nav_order: 4
 | :-----: | :-----: | :-----: |
 | **Early-bird registration**| 4000 HKD | 2500 HKD | 
 | **Normal registration**| 5000 HKD | 3500 HKD | 
-| **Accompany person<sup>1</sup>**| 1200 HKD | 1200 HKD |
-| **One-day pass<sup>2</sup>**| 1600 HKD | 1600 HKD |
+| **Accompany person<sup>1</sup>**| 1200 HKD | 1000 HKD |
+| **One-day pass<sup>2</sup>**| 1600 HKD | 1000 HKD |
 | **For group registration<sup>3</sup>**| 20% off | 20% off |
 {: .table}
 {: .table-striped}
@@ -38,9 +38,7 @@ nav_order: 4
 > <sup>1</sup> Only available for early-bird and normal registration <br>
  <sup>2</sup> One-day pass is available to local Hong Kong participants and conference dinner is not included <br>
  <sup>3</sup> Applicable to groups of at least **five** people who belong to one organization or are co-authors of one paper <br>
-
-
-<br>
+ <sup>*</sup> **Refund policy:** Full refunds given before October 15, 2023 less a 400 HKD handling fee. After October 15, 2023, we cannot offer refunds.
 
 ### Payment Methods
  * to be updated
