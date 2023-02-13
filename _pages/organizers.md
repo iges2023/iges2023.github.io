@@ -30,23 +30,38 @@ nav_order: 1
 <br>
 <h5>Member</h5>
 <ul>
-<li><b>To be updated</b></li>
+<li><b>Dr. Wenbo Chen</b>, PolyU</li>
+<li><b>Dr. Daoyuan Tan</b>, PolyU</li>
+<li><b>Dr. Peichen Wu</b>, PolyU</li>
+<li><b>Dr. Kai Liu</b>, PolyU</li>
+<li><b>Dr. Pei Wang</b>, PolyU</li>
+<li><b>Dr. Xiang Wang</b>, PolyU</li>
+<li><b>Dr. Ning Zhang</b>, PolyU</li>
+<li><b>Dr. Qi Zhang</b>, PolyU</li>
+<li><b>Dr. Weijian Liang</b>, PolyU</li>
 </ul>
 </div>
 
 <br>
 
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3">
+        {% include figure.html path="assets/img/50th_logo.jpg" title="" class="img-fluid " %}
+    </div>
+</div>
+
 <div class="row justify-content-sm-center">
-    <div class="col-sm-5">
+    <div class="col-sm-3">
         {% include figure.html path="assets/img/polyu-logo.png" title="" class="img-fluid " %}
     </div>
-    <div class="col-sm-5">
+    <div class="col-sm-3">
         {% include figure.html path="assets/img/cee-logo.png" title="" class="img-fluid " %}
     </div>
-    <div class="col-sm-5">
+    <div class="col-sm-3">
         {% include figure.html path="assets/img/hkie.jpg" title="" class="img-fluid " %}
     </div>
-    <div class="col-sm-5">
+    <div class="col-sm-3">
         {% include figure.html path="assets/img/hkges-logo.png" title="" class="img-fluid " %}
     </div>
 </div>
+

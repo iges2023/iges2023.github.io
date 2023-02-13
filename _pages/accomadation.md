@@ -15,6 +15,7 @@ PolyU is located in the center city of Hong Kong, with the address of 11 Yuk Cho
 <br>
 
 #### Recommended Hotels
+(The room rate is only for reference)
 
 [Hotel ICON](http://www.hotel-icon.com) <br>
 Address:  17 Science Museum Road, Tsim Sha Tsui East, Kowloon, Hong Kong <br> 
