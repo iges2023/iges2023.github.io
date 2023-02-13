@@ -27,23 +27,23 @@ This workshop will be held on **December 1-2, 2023** at **The Hong Kong Polytech
 <br>
 
 <div class="row justify-content-sm-left">
+    <div class="col-sm-3 align-self-center">
+        {% include figure.html path="assets/img/polyu-logo.png" title="" class="img-fluid " %}
+    </div>
     <div class="col-sm-3">
         {% include figure.html path="assets/img/50th_logo.jpg" title="" class="img-fluid " %}
     </div>
 </div>
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-3">
-        {% include figure.html path="assets/img/polyu-logo.png" title="" class="img-fluid " %}
-    </div>
-    <div class="col-sm-3">
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 align-self-center">
         {% include figure.html path="assets/img/cee-logo.png" title="" class="img-fluid " %}
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-3 align-self-center">
         {% include figure.html path="assets/img/hkie.jpg" title="" class="img-fluid " %}
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-3 align-self-center">
         {% include figure.html path="assets/img/hkges-logo.png" title="" class="img-fluid " %}
     </div>
 </div>

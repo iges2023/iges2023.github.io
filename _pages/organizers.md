@@ -44,23 +44,32 @@ nav_order: 1
 
 <br>
 
+#### Organized by
+
+<h6>Department of Civil and Environmental Engineering (CEE) <br>
+The Hong Kong Polytechnic University </h6>
+
 <div class="row justify-content-sm-left">
+    <div class="col-sm-4 align-self-center">
+        {% include figure.html path="assets/img/cee-logo.png" title="" class="img-fluid " %}
+    </div>
     <div class="col-sm-3">
         {% include figure.html path="assets/img/50th_logo.jpg" title="" class="img-fluid " %}
     </div>
 </div>
+<br>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-3">
-        {% include figure.html path="assets/img/polyu-logo.png" title="" class="img-fluid " %}
-    </div>
-    <div class="col-sm-3">
-        {% include figure.html path="assets/img/cee-logo.png" title="" class="img-fluid " %}
-    </div>
-    <div class="col-sm-3">
+<h6>The Hong Kong Institution of Engineers (HKIE)</h6>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-4 align-self-center">
         {% include figure.html path="assets/img/hkie.jpg" title="" class="img-fluid " %}
     </div>
-    <div class="col-sm-3">
+</div>
+<br>
+
+<h6>Hong Kong Geotechnical Society (HKGES)</h6>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-4">
         {% include figure.html path="assets/img/hkges-logo.png" title="" class="img-fluid " %}
     </div>
 </div>
