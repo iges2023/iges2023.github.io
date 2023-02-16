@@ -40,9 +40,9 @@ This workshop will be held on **December 1-2, 2023** at **The Hong Kong Polytech
     <div class="col-sm-3 align-self-center">
         {% include figure.html path="assets/img/cee-logo.png" title="" class="img-fluid " %}
     </div>
-    <div class="col-sm-3 align-self-center">
-        {% include figure.html path="assets/img/hkie.jpg" title="" class="img-fluid " %}
-    </div>
+    <!-- <div class="col-sm-3 align-self-center"> -->
+        {% include figure.html path="assets/img/hkie22.jpg" title="" class="img-fluid " %}
+    <!-- </div> -->
     <div class="col-sm-3 align-self-center">
         {% include figure.html path="assets/img/hkges-logo.png" title="" class="img-fluid " %}
     </div>

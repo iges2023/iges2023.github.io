@@ -59,18 +59,18 @@ The Hong Kong Polytechnic University </h6>
 </div>
 <br>
 
-<h6>The Hong Kong Institution of Engineers (HKIE)</h6>
-<div class="row justify-content-sm-left">
-    <div class="col-sm-4 align-self-center">
-        {% include figure.html path="assets/img/hkie.jpg" title="" class="img-fluid " %}
-    </div>
-</div>
-<br>
-
 <h6>Hong Kong Geotechnical Society (HKGES)</h6>
 <div class="row justify-content-sm-left">
     <div class="col-sm-4">
         {% include figure.html path="assets/img/hkges-logo.png" title="" class="img-fluid " %}
     </div>
 </div>
+
+<!-- <h6>The Hong Kong Institution of Engineers (HKIE)</h6> -->
+<div class="row justify-content-sm-left">
+    <div class="col-sm-4 align-self-center">
+        {% include figure.html path="assets/img/hkie22.jpg" title="" class="img-fluid " %}
+    </div>
+</div>
+<br>
 
