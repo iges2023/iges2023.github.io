@@ -18,27 +18,31 @@ nav_order: 4
 ### Abstract Submission
 
 * Abstract should be submitted to [iges.2023dec@polyu.edu.hk](mailto:iges.2023dec@polyu.edu.hk) via email. 
-* Abstract submission template - Download here (limited in one page).
+* Abstract submission template - [Download here](../assets/templates/IGES2023_abstract template.docx).
 
 <br>
 
 ### Registration Fees
 
 
-| **Type**{: .h5} | **Senior**{: .h5} | **Student**{: .h5} |
+| **Type**{: .h6} | **Senior**{: .h6} | **Student**{: .h6} |
 | :-----: | :-----: | :-----: |
 | **Early-bird registration**| 4000 HKD | 2500 HKD | 
-| **Normal registration**| 5000 HKD | 3500 HKD | 
-| **Accompany person<sup>1</sup>**| 1200 HKD | 1000 HKD |
-| **One-day pass<sup>2</sup>**| 1600 HKD | 1000 HKD |
-| **For group registration<sup>3</sup>**| 20% off | 20% off |
+| **Regular registration**| 5000 HKD | 3500 HKD | 
+| **Accompanying person**| 1200 HKD | 1000 HKD |
+| **One-day pass**| 1600 HKD | 1000 HKD |
+| **Banquet ticket**| 700 HKD | 700 HKD |
+| **Group registration**| 20% off | 20% off |
 {: .table}
 {: .table-striped}
 
-> <sup>1</sup> Only available for early-bird and normal registration <br>
- <sup>2</sup> One-day pass is available to local Hong Kong participants and conference dinner is not included <br>
- <sup>3</sup> Applicable to groups of at least **five** people who belong to one organization or are co-authors of one paper <br>
- <sup>*</sup> **Refund policy:** Full refunds given before October 15, 2023 less a 400 HKD handling fee. After October 15, 2023, we cannot offer refunds.
+1. **Early-bird/Regular** registration covers participation of keynote lectures, parallel sessions, exhibitions, welcome reception, coffee breaks, lunches, and conference proceedings.
+2. **Accompanying person** registration includes participation in the welcome reception, exhibitions and coffee breaks;
+3. **One-day pass** is available to local Hong Kong participants and includes participation of keynote lectures, parallel sessions, exhibitions, lunches and coffee break for one day;
+4. **Group registration** is for groups of **five** or more people from the same organization or co-authors of a paper, and the discount also covers the banquet;
+5. **Student registration** requires a copy of valid student ID card.
+
+***Refund policy**: Refunds are available before **October 15, 2023**, with a 400 HKD handling fee. No refunds will be granted after October 15, 2023.*
 
 ### Payment Methods
  * to be updated
