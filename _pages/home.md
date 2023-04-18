@@ -15,15 +15,17 @@ description: International Symposium on Innovations in Geotechnical Engineering 
 
 Building a sustainable society is becoming increasingly important. Geotechnical engineering, as a dynamic interface between human society and the earth system, can make significant contributions to developing innovative solutions for sustainable development. This symposium provides an excellent opportunity to showcase and promote innovations in geomechanics that facilitate energy-efficient, environment-friendly, resilient and sustainable geotechnical systems. We invite researchers and engineers interested in incorporating sustainability concepts into geotechnical engineering theory and practice. Interdisciplinary research that transcends traditional disciplinary boundaries and brings new insights into geotechnical engineering fields are welcome.
 
-This workshop will be held on **December 1-2, 2023** at **The Hong Kong Polytechnic University (PolyU)** in the offline mode. The two-day scientific program will include keynote lectures, invited lectures and parallel sessions.
+This workshop will take place at **Hong Kong** on **November 30 - December 4, 2023** in the offline mode. The two-day (December 1 - 2) scientific program at The Hong Kong Polytechnic University (PolyU) will include keynote lectures, invited lectures and parallel sessions. In addition, the symposium will organize two distinct field trips on December 3 - 4, allowing participants to explore Hong Kong's local attractions while fostering networking opportunities. 
+
 
 
 ### Key dates
 * Abstract submission deadline: **May 31, 2023** <br>
 * Acceptance notification: **June 30, 2023** <br>
 * Early-bird registration deadline: **September 30, 2023** <br>
-* Conference: **December 1 - 2, 2023** <br>
-
+* Conference: **November 30 - December 2, 2023** <br>
+* Field trip (optional): **December 3 - 4, 2023** <br>
+  
 <br>
 
 <div class="row justify-content-sm-left">
