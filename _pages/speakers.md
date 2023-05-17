@@ -27,7 +27,7 @@ _(Updated as of May 17, 2023)_
 
 <br>
 
-### Specifically Invited Speaker
+### Invited Speaker
 
 | **Speaker**{: .h5}           | **Affiliation**{: .h5}           |
 | :-----:                      | :-----:                          |
