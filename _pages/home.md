@@ -20,8 +20,8 @@ This workshop will take place at **Hong Kong** on **November 30 - December 4, 20
 
 
 ### Key dates
-* Abstract submission deadline: **May 31, 2023** <br>
-* Acceptance notification: **June 30, 2023** <br>
+* Abstract submission deadline: **~~May 31, 2023~~**, **June 30, 2023**  <br>
+* Acceptance notification:  **~~June 30, 2023~~**, **July 31, 2023**  <br>
 * Early-bird registration deadline: **September 30, 2023** <br>
 * Conference: **November 30 - December 2, 2023** <br>
 * Field trip (optional): **December 3 - 4, 2023** <br>
@@ -42,11 +42,11 @@ This workshop will take place at **Hong Kong** on **November 30 - December 4, 20
     <div class="col-sm-3 align-self-center">
         {% include figure.html path="assets/img/cee-logo.png" title="" class="img-fluid " %}
     </div>
-    <!-- <div class="col-sm-3 align-self-center"> -->
-        {% include figure.html path="assets/img/hkie22.jpg" title="" class="img-fluid " %}
-    <!-- </div> -->
     <div class="col-sm-3 align-self-center">
         {% include figure.html path="assets/img/hkges-logo.png" title="" class="img-fluid " %}
+    </div>
+        <div class="col-sm-3 align-self-center">
+        {% include figure.html path="assets/img/hkie_geo.png" title="" class="img-fluid " %}
     </div>
 </div>
 
