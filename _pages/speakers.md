@@ -3,25 +3,26 @@ layout: page
 permalink: /speakers/
 title: Speakers
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ### Keynote Speaker
 
-_(Updated as of May 17, 2023)_
+_(Updated as of May 21, 2023)_
 
-| **Speaker**{: .h5}           | **Affiliation**{: .h5}           |
-| :-----:                       | :-----:                           |
-| Prof. Ronaldo I. Borja       | Stanford University              |
-| Dr. Johnny Cheuk             |  AECOM                           |
-| Dr. Wai Man, Raymond, Cheung | Geotechnical Engineering Office  |
-| Prof. Jian Chu               | Nanyang Technological University | 
-| Prof. Matthew Richard Coop   | University College London        |
-| Prof. Jianfu Shao            | University of Lille              |
-| Prof. Daichao Sheng          | University of Technology Sydney  |
-| Prof. Steve WaiChing Sun     | Columbia University              |
-| Dr. James Sze                | Arup                             |
-| Prof. Wei Wu                 | Universität für Bodenkultur      | 
+|      **Speaker**{: .h5}      |          **Affiliation**{: .h5}           |
+| :--------------------------: | :---------------------------------------: |
+|     **Ronaldo I. Borja**     |            Stanford University            |
+|       **Johnny Cheuk**       |                   AECOM                   |
+| **Wai Man, Raymond, Cheung** |      Geotechnical Engineering Office      |
+|         **Jian Chu**         |     Nanyang Technological University      |
+|   **Matthew Richard Coop**   |         University College London         |
+|        **Manchao He**        | China University of Mining and technology |
+|       **Jianfu Shao**        |            University of Lille            |
+|      **Daichao Sheng**       |      University of Technology Sydney      |
+|    **Steve WaiChing Sun**    |            Columbia University            |
+|        **James Sze**         |                   Arup                    |
+|          **Wei Wu**          |        Universität für Bodenkultur        |
 {: .table}
 {: .table-striped}
 
@@ -29,10 +30,11 @@ _(Updated as of May 17, 2023)_
 
 ### Invited Speaker
 
-| **Speaker**{: .h5}           | **Affiliation**{: .h5}           |
-| :-----:                      | :-----:                          |
-| Prof. Hong Zheng             | Beijing University of Technology  |
-| Prof. Wei-Lie Zou            | Wuhan University                  |
+| **Speaker**{: .h5} |      **Affiliation**{: .h5}       |
+| :----------------: | :-------------------------------: |
+| **Yuan-Qiang Cai** | Zhejiang University of Technology |
+|   **Hong Zheng**   | Beijing University of Technology  |
+|  **Wei-Lie Zou**   |         Wuhan University          |
 {: .table}
 {: .table-striped}
 
