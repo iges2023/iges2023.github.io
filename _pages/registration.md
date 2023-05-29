@@ -25,13 +25,12 @@ nav_order: 5
 
 ### Registration Fees
 
-
-| **Type**{: .h6} | **Senior**{: .h6} | **Student**{: .h6} |
+| **Type**{: .h6} | **Faculty**{: .h6} | **Student**{: .h6} |
 | :-----: | :-----: | :-----: |
 | **Early-bird registration**| 4000 HKD | 2500 HKD | 
 | **Regular registration**| 5000 HKD | 3500 HKD | 
-| **Accompanying person**| 1200 HKD | 1000 HKD |
-| **One-day pass**| 1600 HKD | 1000 HKD |
+| **Accompanying person**| 1200HKD | 1200 HKD  |
+| **One-day pass**| 1200 HKD | 1200HKD |
 | **Banquet ticket**| 700 HKD | 700 HKD |
 | **Group registration**| 20% off | 20% off |
 {: .table}
