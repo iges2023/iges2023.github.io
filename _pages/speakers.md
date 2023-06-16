@@ -8,7 +8,7 @@ nav_order: 4
 
 ### Keynote Speaker
 
-_(Updated as of May 21, 2023)_
+_(Updated as of June 16, 2023)_
 
 |      **Speaker**{: .h5}      |          **Affiliation**{: .h5}           |
 | :--------------------------: | :---------------------------------------: |
@@ -34,6 +34,7 @@ _(Updated as of May 21, 2023)_
 | :----------------: | :-------------------------------: |
 | **Yuan-Qiang Cai** | Zhejiang University of Technology |
 | **Shuilong Shen**  |        Shantou University         |
+|  **Yangping Yao**  |        Beihang University         |
 |   **Hong Zheng**   | Beijing University of Technology  |
 | **Jun-jie Zheng**  |         Wuhan University          |
 |  **Wei-Lie Zou**   |         Wuhan University          |
