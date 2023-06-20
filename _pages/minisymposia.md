@@ -14,7 +14,7 @@ Keynote lectures and invited lectures will be complemented by the following para
 * ***MS-03*** &nbsp;  Advanced numerical approaches (**Pan Pengzhi**)
 * ***MS-04*** &nbsp;  Smart geotechnical monitoring (**Zhu Honghu**, **Zhou Wanhuan**)
 * ***MS-05*** &nbsp;  Big data and artificial intelligence in geotechnics (**Zhang Pin**, **Sheil Brian**)
-* ***MS-06*** &nbsp;  Geo-energy engineering (**Gao Fuping**)
+* ***MS-06*** &nbsp;  Soil-structure interaction (**Gao Fuping**)
 * ***MS-07*** &nbsp;  Geo-environmental engineering (**Du Yanjun**)
 * ***MS-08*** &nbsp;  Geo-hazard assessment and mitigation (**Tan Daoyuan**)
 * ***MS-09*** &nbsp;  Sustainability and resilience of infrastructures (**Zhang Dongming**)
