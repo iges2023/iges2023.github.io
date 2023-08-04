@@ -9,10 +9,12 @@ nav_order: 5
 ### Key Dates
 
 
-* Abstract submission deadline: **~~May 31, 2023~~**, **~~July 31, 2023~~**, **August 31, 2023**   <br>
-* Acceptance notification: **~~June 30, 2023~~**, **~~August 31, 2023~~**, **September 15, 2023**  <br>
+* Abstract submission deadline: **~~July 31, 2023~~**, **August 31, 2023**   <br>
+* Acceptance notification: **~~August 31, 2023~~**, **September 15, 2023**  <br>
 * Early-bird registration deadline: **September 30, 2023** <br>
+* On-site register: **November 30, 2023** <br>
 * Conference: **December 1 - 2, 2023** <br>
+* Field trip (optional): **December 3 - 4, 2023** <br>
   
 <br>
 

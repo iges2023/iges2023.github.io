@@ -20,3 +20,4 @@ The conference key themes are as follows:
 * Geo-environmental engineering
 * Geo-hazard assessment and mitigation
 * Sustainability and resilience of infrastructures
+* Tunnelling and underground space technology
