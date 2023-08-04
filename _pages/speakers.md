@@ -45,5 +45,5 @@ _(Updated as of August 4, 2023)_
 {: .table-striped}
 
 
-
-_*Listed in alphabetical order of last name_
+_*The speaker list is updating_ <br>
+_**Listed in alphabetical order of last name_
