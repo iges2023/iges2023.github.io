@@ -38,9 +38,9 @@ nav_order: 1
             <li>Xiang WANG</li>
             <li>Ning ZHANG</li>
             <li>Qi ZHANG</li>
-            <li>Shuilong SHEN</li>
-            <li>Yingguang LUO</li>
             <li>Zhiwen ZHU</li>
+            <li>Ying YU</li>
+            <li>Yanning WANG</li>
             <li>Linshuang ZHAO</li>
         </ul>
 
@@ -63,7 +63,8 @@ nav_order: 1
 </div>
 <br>
 
-<h6>Shantou University</h6>
+<h6>Department of Civil and Smart Construction Engineering<br>
+    Shantou University</h6>
 
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 align-self-center">
