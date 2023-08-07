@@ -4,7 +4,7 @@ title: Accommodation
 permalink: /accommodation/
 description: 
 nav: false
-nav_order: 5
+nav_order: 7
 display_categories: 
 horizontal: true
 ---

@@ -6,8 +6,16 @@ nav: true
 nav_order: 5
 ---
 
-### Key Dates
+<div class="row justify-content-sm-left">
+    <div class="col-sm-3 align-self-center">
+        <a href="https://iges2023.szdisinfo.com/join/create/249.html">
+        {% include figure.html path="assets/img/registrationhere.png" title="" class="img-fluid " %}
+        </a>
+    </div>
+</div>
 
+
+### Key Dates
 
 * Abstract submission deadline: **~~July 31, 2023~~**, **August 31, 2023**   <br>
 * Acceptance notification: **~~August 31, 2023~~**, **September 15, 2023**  <br>
@@ -18,21 +26,6 @@ nav_order: 5
   
 <br>
 
-### Abstract Submission
-
-* Abstract submission template - [Download here](../assets/templates/IGES2023_abstract template.docx).
-* Submission can be made via sending abstract to [iges.2023dec@polyu.edu.hk](mailto:iges.2023dec@polyu.edu.hk) or below submission system.
-
-<div class="row justify-content-sm-left">
-    <div class="col-sm-3 align-self-center">
-        <a href="https://iges2023.szdisinfo.com/paper/abstract/create/249.html">
-        {% include figure.html path="assets/img/clickhere.png" title="" class="img-fluid " %}
-        </a>
-    </div>
-</div>
-
-
-<br>
 
 ### Registration Fees
 
@@ -54,14 +47,6 @@ nav_order: 5
 5. **Student registration** requires a copy of valid student ID card.
 
 ***Refund policy**: Refunds are available before **October 15, 2023**, with a 400 HKD handling fee. No refunds will be granted after October 15, 2023.*
-
-<div class="row justify-content-sm-left">
-    <div class="col-sm-3 align-self-center">
-        <a href="https://iges2023.szdisinfo.com/join/create/249.html">
-        {% include figure.html path="assets/img/registrationhere.png" title="" class="img-fluid " %}
-        </a>
-    </div>
-</div>
 
 
 
