@@ -8,7 +8,7 @@ nav_order: 4
 
 ### Keynote Speaker
 
-_(Updated as of August 4, 2023)_
+_(Updated as of August 20, 2023)_
 
 |      **Speaker**{: .h5}      |          **Affiliation**{: .h5}           |
 | :--------------------------: | :---------------------------------------: |
