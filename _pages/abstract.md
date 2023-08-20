@@ -17,7 +17,7 @@ nav_order: 5
 ### Abstract Submission
 
 * Abstract submission template - [Download here](../assets/templates/IGES2023_abstract template.docx).
-* Submission can be made via sending abstract to [iges.2023dec@polyu.edu.hk](mailto:iges.2023dec@polyu.edu.hk) or below submission system.
+* Submission should be made through the above submission system.
 * Abstract submission deadline: **August 31, 2023**.
 
 

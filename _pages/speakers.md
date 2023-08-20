@@ -13,6 +13,7 @@ _(Updated as of August 4, 2023)_
 |      **Speaker**{: .h5}      |          **Affiliation**{: .h5}           |
 | :--------------------------: | :---------------------------------------: |
 |     **Ronaldo I. BORJA**     |            Stanford University            |
+|       **Yunmin CHEN**        |            Zhejiang University            |
 |       **Johnny CHEUK**       |                   AECOM                   |
 | **Wai Man, Raymond, CHEUNG** |      Geotechnical Engineering Office      |
 |         **Jian CHU**         |     Nanyang Technological University      |
@@ -32,15 +33,15 @@ _(Updated as of August 4, 2023)_
 
 | **Speaker**{: .h5} |      **Affiliation**{: .h5}       |
 | :----------------: | :-------------------------------: |
-| **Yuanqiang CAI** | Zhejiang University of Technology |
+| **Yuanqiang CAI**  | Zhejiang University of Technology |
 | **Hongwei HUANG**  |         Tongji University         |
 | **Shuilong SHEN**  |        Shantou University         |
 |  **Yangping YAO**  |        Beihang University         |
 |   **Ali ZAOUI**    |        University of Lille        |
 |   **Hong ZHENG**   | Beijing University of Technology  |
 | **Chenggang ZHAO** |    Beijing Jiaotong University    |
-| **Junjie ZHENG**  |         Wuhan University          |
-|  **Weilie ZOU**   |         Wuhan University          |
+|  **Junjie ZHENG**  |         Wuhan University          |
+|   **Weilie ZOU**   |         Wuhan University          |
 {: .table}
 {: .table-striped}
 

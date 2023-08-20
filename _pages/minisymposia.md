@@ -12,7 +12,7 @@ Keynote lectures and invited lectures will be complemented by the following para
 * ***MS-01*** &nbsp;  Properties of sustainable construction materials (**Yonggui CHEN**, **Sérgio D.N. LOURENÇO**)
 * ***MS-02*** &nbsp;  Constitutive modeling of geomaterials (**Zhongxuan YANG**, **Fiona C.Y. KWOK**)
 * ***MS-03*** &nbsp;  Advanced numerical approaches (**Pengzhi PAN**, **Jidong ZHAO**)
-* ***MS-04*** &nbsp;  Smart geotechnical monitoring (**Honghu ZHU**, **Wanhuan ZHOU**)
+* ***MS-04*** &nbsp;  Smart geotechnical monitoring (**Honghu ZHU**, **Wanhuan ZHOU**, **Behzad FATAHI**)
 * ***MS-05*** &nbsp;  Big data and artificial intelligence in geotechnics (**Pin ZHANG**, **Brian SHEIL**)
 * ***MS-06*** &nbsp;  Soil-structure interaction (**Fuping GAO**, **Dong-sheng JENG**)
 * ***MS-07*** &nbsp;  Geo-environmental engineering (**Yanjun DU**, **Kuo TIAN**, **Manman HU**)
