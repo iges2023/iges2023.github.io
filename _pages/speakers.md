@@ -8,7 +8,7 @@ nav_order: 4
 
 ### Keynote Speaker
 
-_(Updated as of August 20, 2023)_
+_(Updated as of September 20, 2023)_
 
 |      **Speaker**{: .h5}      |          **Affiliation**{: .h5}           |
 | :--------------------------: | :---------------------------------------: |
@@ -24,6 +24,8 @@ _(Updated as of August 20, 2023)_
 |    **Steve WaiChing SUN**    |            Columbia University            |
 |        **James SZE**         |                   Arup                    |
 |          **Wei WU**          |        Universität für Bodenkultur        |
+|        **Ali ZAOUI**         |            University of Lille            |
+|        **Hehua ZHU**         |             Tongji University             |
 {: .table}
 {: .table-striped}
 
@@ -31,17 +33,24 @@ _(Updated as of August 20, 2023)_
 
 ### Invited Speaker
 
-| **Speaker**{: .h5} |      **Affiliation**{: .h5}       |
-| :----------------: | :-------------------------------: |
-| **Yuanqiang CAI**  | Zhejiang University of Technology |
-| **Hongwei HUANG**  |         Tongji University         |
-| **Shuilong SHEN**  |        Shantou University         |
-|  **Yangping YAO**  |        Beihang University         |
-|   **Ali ZAOUI**    |        University of Lille        |
-|   **Hong ZHENG**   | Beijing University of Technology  |
-| **Chenggang ZHAO** |    Beijing Jiaotong University    |
-|  **Junjie ZHENG**  |         Wuhan University          |
-|   **Weilie ZOU**   |         Wuhan University          |
+|   **Speaker**{: .h5}    |                      **Affiliation**{: .h5}                       |
+| :---------------------: | :---------------------------------------------------------------: |
+|    **Yuanqiang CAI**    |                 Zhejiang University of Technology                 |
+|    **Renpeng CHEN**     |                         Hunan University                          |
+|     **Qiushi CHEN**     |                        Clemson University                         |
+| **Samson Abate DEGAGO** |          Norwegian University of Science and Technology           |
+|     **Shijin FENG**     |                         Tongji University                         |
+|    **Hongwei HUANG**    |                         Tongji University                         |
+|    **Erdin IBRAIM**     |                       University of Bristol                       |
+|     **Dianqing LI**     |                         Wuhan University                          |
+|    **Shuilong SHEN**    |                        Shantou University                         |
+|     **Changfu WEI**     | Institute of Rock and Soil Mechanics, Chinese Academy of Sciences |
+|      **Weiya XU**       |                         Hohai University                          |
+|     **Changjie XU**     |                  East China Jiaotong University                   |
+|    **Yangping YAO**     |                        Beihang University                         |
+|     **Hong ZHENG**      |                 Beijing University of Technology                  |
+|    **Junjie ZHENG**     |                         Wuhan University                          |
+|     **Weilie ZOU**      |                         Wuhan University                          |
 {: .table}
 {: .table-striped}
 

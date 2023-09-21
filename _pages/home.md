@@ -26,7 +26,10 @@ This workshop will take place at **Hong Kong** on **November 30 - December 4, 20
 * On-site register: **November 30, 2023** <br>
 * Conference: **December 1 -  2, 2023** <br>
 * Field trip (optional): **December 3 - 4, 2023** <br>
-  
+
+
+### Updates
+* [**September 17**] Notifications regarding acceptance or required revisions have been dispatched to all authors. If you have not received your notification email, please reach out to  IGES2023 Secretariat for further assistance.
 <br>
 
 <div class="row justify-content-sm-left">

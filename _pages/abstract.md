@@ -14,6 +14,8 @@ nav_order: 5
     </div>
 </div>
 
+***NEWS:*** *Notifications regarding acceptance or required revisions have been dispatched to all authors. If you have not received your notification email, please reach out to  IGES2023 Secretariat for further assistance.*
+
 ### Abstract Submission
 
 * Abstract submission template - [Download here](../assets/templates/IGES2023_abstract template.docx).
