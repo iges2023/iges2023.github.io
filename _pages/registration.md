@@ -46,6 +46,9 @@ nav_order: 5
 3. **One-day pass** is available to local Hong Kong participants and includes participation of keynote lectures, parallel sessions, exhibitions, lunches and coffee break for one day;
 4. **Group registration** is for groups of **five** or more people from the same organization or co-authors of a paper, and the discount does not cover the banquet;
 5. **Student registration** requires a copy of valid student ID card.
+6. For the ticket type, **Premium Registration** includes the banquet while the **Standard Registration** does not.
+
+
 
 ***Refund policy**: Refunds are available before **October 15, 2023**, with a 400 HKD handling fee. No refunds will be granted after October 15, 2023.*
 
