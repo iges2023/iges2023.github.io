@@ -14,7 +14,10 @@ nav_order: 5
     </div>
 </div>
 
-***NEWS:*** *Notifications regarding acceptance or required revisions have been dispatched to all authors. If you have not received your notification email, please reach out to  IGES2023 Secretariat for further assistance.*
+***NEWS:*** 
+* *Notifications regarding acceptance or required revisions have been dispatched to all authors. If you have not received your notification email, please reach out to  IGES2023 Secretariat for further assistance.* <br/>
+* *Please be advised that only authors who have successfully completed their registration will be scheduled for oral presentations during the IGES2023 conference.*
+
 
 ### Abstract Submission
 
