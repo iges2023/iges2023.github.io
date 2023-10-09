@@ -20,9 +20,10 @@ This workshop will take place at **Hong Kong** on **November 30 - December 4, 20
 
 
 ### Key dates
-* Abstract submission deadline: **~~July 31, 2023~~**, **August 31, 2023**  <br>
-* Acceptance notification:   **~~August 31, 2023~~**, **September 15, 2023**   <br>
-* Early-bird registration deadline: **September 30, 2023** <br>
+* ~~Abstract submission deadline: **August 31, 2023**~~  <br>
+* ~~Acceptance notification:  **September 15, 2023**~~  <br>
+* ~~Early-bird registration deadline: **September 30, 2023**~~ <br>
+* Regular registration deadline: **October 31, 2023** <br>
 * On-site register: **November 30, 2023** <br>
 * Conference: **December 1 -  2, 2023** <br>
 * Field trip (optional): **December 3 - 4, 2023** <br>

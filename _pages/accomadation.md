@@ -10,52 +10,57 @@ horizontal: true
 ---
 
 
-PolyU is located in the center city of Hong Kong, with the address of 11 Yuk Choi Rd. City, Hung Hom, Kowloon, Hong Kong. 
+IGES2023 will be held at The Hong Kong Polytechnic University (PolyU), located in the heart of Hong Kong at 11 Yuk Choi Rd, Hung Hom, Kowloon. 
+
+We're pleased to announce that several local hotels have generously agreed to offer special discounts to IGES2023 participants. Please note that these discounts are subject to availability, as the number of discounted rooms is limited. Feel free to secure your accommodation at your earliest convenience to take advantage of these special offers.
 
 <br>
 
 #### Recommended Hotels
-(The room rate is only for reference)
 
-[Hotel ICON](http://www.hotel-icon.com) <br>
-Address:  17 Science Museum Road, Tsim Sha Tsui East, Kowloon, Hong Kong <br> 
-Room rate: HK$1,820– HK$2,100+ 10% per room per night<br> 
-Tel: (852) 3400 1000 <br> 
-Fax: (852) 3400 1001 <br> 
-Email: book@hotel-icon.com <br> 
+[**Hotel ICON**](http://www.hotel-icon.com)<br>
+* Class: 5-star hotel
+* Address: 17 Science Museum Rd, Tsim Sha Tsui
+* Booking info: A special conference rate is available by contacting Ms Jennifer Wong of Hotel ICON. Please send an email to jennifer.wong@hotel-icon.com with the Subject of “PolyU IGES2023 Conference” with attaching your registration confirmation
+Tel: +852 3400 1191
 
-[Harbour Plaza Metropolis](http://www.harbour-plaza.com/metropolis/Index-en.htm) <br> 
-Address: 7 Metropolis Drive, Hunghom, Kowloon, Hong Kong <br> 
-Room Rate: HK$980+ 10% per room per night <br> 
-Tel: (852) 3160 6979 <br> 
-Fax: (852) 3160 6988 <br> 
-Email: mandyy@harbour-plaza.com <br> 
+[**New World Millennium Hong Kong Hotel**](https://www.newworldmillenniumhotel.com/en/)<br>
+* Class: 5-star hotel
+* Address: 72 Mody Road, Tsim Sha Tsui East, Kowloon
+* Room Rate: 30% discount rate base on Best Available Rate (BAR)
+* Allotment allocation: daily 15 rooms allotment 
+* Cancellation: non-refunable
+* Cut off Date: 21 November 2023
+* Booking linkage: [click here](https://reservations.newworldmillenniumhotel.com/?Hotel=62247&Chain=14158&locale=en-US&promo=GPOLYUCEE&config=PRM)
+
+[**Harbour Plaza Metropolis**](https://www.harbour-plaza.com/metropolis/en/)
+* Class: 4-star hotel
+* Address: 7 Metropolis Dr, Hung Hom
+* Room Type: Superior Room on Standard Floor
+* Allotment allocation: 300 
+* Room Rate: HK$900 plus 10% service charge per room per night. Higher room categories will also be available for their choice with special supplement.
+* Breakfast: Special supplement at HK$120 + 10% per person per meal with advance purchase upon making reservations.
+* Benefits:        
+    * Free in-room wifi internet access
+    * Welcome fruit
+    * 2 bottles of distilled water with daily replenishment
+    * Free use of sauna, gym and outdoor swimming pool
+    * Free shuttle bus between hotel and TST (Middle Road) from 7am to 11pm, every 30 minutes interval
+* Cancellation:  less than 21 days notification will charge one night room charges penalty; less than 7 days notification will charge whole period of room charges as penalty.
+* Cut off Date: 10 November 2023
+* Booking linkage: [click here](https://be.synxis.com/?_ga=2.48362278.1255360536.1695979134-25151328.1687829999&adult=1&arrive=2023-11-28&chain=21619&child=0&currency=HKD&depart=2023-11-29&group=IGES2023&hotel=76636&level=hotel&locale=en-US&rooms=1)
 
 
-[Eaton, Hong Kong](http://hongkong.eatonhotels.com/) <br> 
-Address: 380 Nathan Road, Kowloon, Hong Kong <br> 
-Room rate: HK$880 +10%per room per night <br> 
-Tel: (852) 2710 1828 <br> 
-Fax: (852) 2771 0043 <br> 
-Email: heidi@eatonworkshop.com /  molly@eatonworkshop.com <br> 
-
-[Regal Kowloon Hotel](https://www.regalhotel.com/regal-kowloon-hotel/) <br> 
-Address: 71 Mody Road, Tsimshatsui, Kowloon, Hong Kong <br> 
-Room rate: HK$830+10% per room per night <br> 
-Tel: (852) 2313 8606 <br> 
-Fax: (852) 2311 8900 <br> 
-Email: rkh.sm1@regalhotel.com  (Attn: Miss Crystal Yau) <br> 
-
-[Best Western Grand Hotel](http://www.bestwesterngrandhotel.com/)<br> 
-Address:  23 Austin Avenue, Tsim Sha Tsui, Kowloon, Hong Kong<br> 
-Room rate: HK$600+10%per room per night<br> 
-Tel: (852) 3122 6183<br> 
-Fax: (852) 2730 9936<br> 
-Email: doscorp@bestwesterngrandhotel.com<br> 
-
-[Best Western Plus Hotel (Kowloon)](http://bestwesternplushotelkowloon.com)<br> 
-Address:  73-75 Chatham Road South, Tsim Sha Tsui, Kowloon, Hong Kong<br> 
-Room rate: HK$600+10% per room per night<br> 
-Tel: (852) 3966 4698 <br> 
-Fax: (852) 2721 8022 <br> 
-Email: dos@bestwesternplushotelkln.com <br> 
+[**The Royal Garden**](https://www.rghk.com.hk/en/index.php)
+* Class: 4-star hotel
+* Address: 69 Mody Road, Tsimshatsui East, Kowloon, Hong Kong
+* Room type: Deluxe Room, Premier Room, Studio Suite & Junior Suite
+* Allotment allocation: 40
+* Benefits:
+    * Daily 1 Buffet Breakfast at The Greenery: Deluxe Room & Premier Room;
+    * Club benefits: Buffet Breakfast at The Greenery, Afternoon Tea & Evening Cocktails at Crown Club: Studio Suite & Junior Suite
+    * Welcome Fruit, 15% dining discount on Food & Beverage: All 4 room types  
+* Room Rate: 25% discount from Best Flexible Rate 
+* Cancellation: Cancellation / amendment is not allowed once booked
+* Cut off Date: 6 November 2023
+* Booking linkage: [click here](https://www.book-secure.com/index.php?s=results&property=cnhon27174&arrival=2023-11-28&departure=2023-11-29&code=IGES2023&&adults1=1)
