@@ -34,7 +34,7 @@ nav_order: 1
             <li>Daoyuan TAN</li>
             <li>Peichen WU</li>
             <li>Kai LIU</li>
-            <li>Pei WANGA</li>
+            <li>Pei WANG</li>
             <li>Xiang WANG</li>
             <li>Ning ZHANG</li>
             <li>Qi ZHANG</li>
@@ -86,6 +86,14 @@ nav_order: 1
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 align-self-center">
         {% include figure.html path="assets/img/hkie_geo.png" title="" class="img-fluid " %}
+    </div>
+</div>
+<br>
+
+<h6>American Society of Civil Engineers (ASCE) Greater China Section </h6>
+<div class="row justify-content-sm-left">
+    <div class="col-sm-4 align-self-center">
+        {% include figure.html path="assets/img/ASCEGC.jpg" title="" class="img-fluid " %}
     </div>
 </div>
 <br>

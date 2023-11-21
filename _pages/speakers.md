@@ -8,7 +8,7 @@ nav_order: 4
 
 ### Keynote Speaker
 
-_(Updated as of Oct. 20, 2023)_
+_(Updated as of Nov. 20, 2023)_
 
 |      **Speaker**{: .h5}      |          **Affiliation**{: .h5}           |
 | :--------------------------: | :---------------------------------------: |
@@ -36,14 +36,12 @@ _(Updated as of Oct. 20, 2023)_
 
 |   **Speaker**{: .h5}    |                                **Affiliation**{: .h5}                                 |
 | :---------------------: | :-----------------------------------------------------------------------------------: |
-|    **Yuanqiang CAI**    |                           Zhejiang University of Technology                           |
 |    **Renpeng CHEN**     |                                   Hunan University                                    |
 |     **Qiushi CHEN**     |                                  Clemson University                                   |
 | **Samson Abate DEGAGO** | Norwegian University of Science and Technology, <br> Norwegian Public Roads Administration |
 |     **Shijin FENG**     |                                   Tongji University                                   |
 |    **Hongwei HUANG**    |                                   Tongji University                                   |
 |    **Erdin IBRAIM**     |                                 University of Bristol                                 |
-|     **Dianqing LI**     |                                   Wuhan University                                    |
 |    **Shuilong SHEN**    |                                  Shantou University                                   |
 |     **Changfu WEI**     |           Institute of Rock and Soil Mechanics, <br> Chinese Academy of Sciences           |
 |      **Weiya XU**       |                                   Hohai University                                    |

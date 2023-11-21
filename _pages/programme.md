@@ -8,23 +8,23 @@ nav_order: 4
 
 
 
-<!-- #### November 30, 2023 ####
-Registration 
+#### Tentative Conference Program   ####
 
-#### December 1, 2023 ####
-Scientific program
-
-#### December 2, 2023 ####
-Scientific program
-
-#### December 3, 2023 ####
-Field trip (optional)
-
-#### December 4, 2023 ####
-Field trip (optional) -->
+[Download here](../assets/pdf/IGES2023_Program_V1.pdf).
 
 
-| **Date**{: .h5} | **Event**{: .h5} |
+**Please note that the agenda for our upcoming conference is tentative and subject to change. If you spot any mistake, please do not hesitate to contact us via iges.2023dec@polyu.edu.hk.**
+
+
+
+<object data="https://iges2023.github.io/assets/pdf/IGES2023_Program_V1.pdf" type="application/pdf" width="100%" height="600px">
+    <embed src="https://iges2023.github.io/assets/pdf/IGES2023_Program_V1.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://iges2023.github.io/assets/pdf/IGES2023_Program_V1.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+<!-- | **Date**{: .h5} | **Event**{: .h5} |
 | :-----: | :-----: |
 | **November 30** | **Registration** |
 | **December 1** | **Scientific program** |
@@ -32,7 +32,7 @@ Field trip (optional) -->
 | **December 3** | **Field trip (optional)** |
 | **December 4** | **Field trip (optional)** |
 {: .table}
-{: .table-striped}
+{: .table-striped} -->
 
 
 <!-- | **Time (HKT)**{: .h5} | **Event**{: .h5} |

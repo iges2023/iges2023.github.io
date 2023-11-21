@@ -32,14 +32,17 @@ This workshop will take place at **Hong Kong** on **November 30 - December 4, 20
 ### Updates
 * [**September 17**] Notifications regarding acceptance or required revisions have been dispatched to all authors. If you have not received your notification email, please reach out to  IGES2023 Secretariat for further assistance.
 * [**October 5**] Please be advised that only authors who have successfully completed their registration will be scheduled for presentations during the IGES2023.
-
+* [**November 20**] Tentative conference program are now available. Please visit **Programme** page.
 <br>
 
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 align-self-center">
         {% include figure.html path="assets/img/polyu-logo.png" title="" class="img-fluid " %}
     </div>
-    <div class="col-sm-3">
+     <div class="col-sm-3 align-self-center">
+        {% include figure.html path="assets/img/cee-logo.png" title="" class="img-fluid " %}
+    </div>
+    <div class="col-sm-3 align-self-center">
         {% include figure.html path="assets/img/50th_logo.jpg" title="" class="img-fluid " %}
     </div>
 </div>
@@ -47,13 +50,13 @@ This workshop will take place at **Hong Kong** on **November 30 - December 4, 20
 
 <div class="row justify-content-sm-left">
     <div class="col-sm-3 align-self-center">
-        {% include figure.html path="assets/img/cee-logo.png" title="" class="img-fluid " %}
-    </div>
-    <div class="col-sm-3 align-self-center">
         {% include figure.html path="assets/img/hkges-logo.png" title="" class="img-fluid " %}
     </div>
         <div class="col-sm-3 align-self-center">
         {% include figure.html path="assets/img/hkie_geo.png" title="" class="img-fluid " %}
+    </div>
+        <div class="col-sm-3 align-self-center">
+        {% include figure.html path="assets/img/ASCEGC.jpg" title="" class="img-fluid " %}
     </div>
 </div>
 
