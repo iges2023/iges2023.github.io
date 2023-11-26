@@ -17,7 +17,7 @@ nav_order: 4
 
 
 
-<object data="https://iges2023.github.io/assets/pdf/IGES2023_Program_V2.pdf" type="application/pdf" width="100%" height="100%">
+<object data="https://iges2023.github.io/assets/pdf/IGES2023_Program_V2.pdf" type="application/pdf" width="100%" height="800px">
     <embed src="https://iges2023.github.io/assets/pdf/IGES2023_Program_V2.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://iges2023.github.io/assets/pdf/IGES2023_Program_V2.pdf">Download PDF</a>.</p>
     </embed>
