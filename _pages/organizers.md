@@ -34,6 +34,7 @@ nav_order: 1
             <li>Daoyuan TAN</li>
             <li>Peichen WU</li>
             <li>Kai LIU</li>
+            <li>Zejian CHEN</li>
             <li>Pei WANG</li>
             <li>Xiang WANG</li>
             <li>Ning ZHANG</li>
