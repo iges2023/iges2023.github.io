@@ -7,10 +7,7 @@ nav_order: 4
 ---
 
 
-
-#### Conference Program ####
-
-[Download here](../assets/pdf/IGES2023_Program_Final.pdf).
+[**Download here**](../assets/pdf/IGES2023_Program_Final.pdf).
 
 
 <object data="https://iges2023.github.io/assets/pdf/IGES2023_Program_Final.pdf" type="application/pdf" width="100%" height="800px">
