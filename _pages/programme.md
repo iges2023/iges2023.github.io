@@ -8,18 +8,14 @@ nav_order: 4
 
 
 
-#### Tentative Conference Program (Version 2)  ####
+#### Conference Program ####
 
-[Download here](../assets/pdf/IGES2023_Program_V2.pdf).
-
-
-**Please note that the agenda for our upcoming conference is tentative and subject to change. If you spot any mistake, please do not hesitate to contact us via iges.2023dec@polyu.edu.hk.**
+[Download here](../assets/pdf/IGES2023_Program_Final.pdf).
 
 
-
-<object data="https://iges2023.github.io/assets/pdf/IGES2023_Program_V2.pdf" type="application/pdf" width="100%" height="800px">
-    <embed src="https://iges2023.github.io/assets/pdf/IGES2023_Program_V2.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://iges2023.github.io/assets/pdf/IGES2023_Program_V2.pdf">Download PDF</a>.</p>
+<object data="https://iges2023.github.io/assets/pdf/IGES2023_Program_Final.pdf" type="application/pdf" width="100%" height="800px">
+    <embed src="https://iges2023.github.io/assets/pdf/IGES2023_Program_Final.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://iges2023.github.io/assets/pdf/IGES2023_Program_Final.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
