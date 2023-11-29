@@ -53,6 +53,7 @@ nav_order: 5
 
 ***Refund policy**: Refunds are available before **October 15, 2023**, with a 400 HKD handling fee. No refunds will be granted after October 15, 2023.*
 
+<br>
 
 ### Venue 
 
