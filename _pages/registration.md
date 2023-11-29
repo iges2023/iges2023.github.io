@@ -54,6 +54,17 @@ nav_order: 5
 ***Refund policy**: Refunds are available before **October 15, 2023**, with a 400 HKD handling fee. No refunds will be granted after October 15, 2023.*
 
 
+### Venue 
+
+The venue for conference registration, plenary sessions and parallel sessions are shown as below:
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm align-self-center">
+        {% include figure.html path="assets/img/Map.png" title="" class="img-fluid " %}
+    </div>
+</div>
+
+
 
 
 <br>
