@@ -25,6 +25,7 @@ nav_order: 1
     <h5>Secretary</h5>
     <ul>
         <li><b>Weijian LIANG</b>, PolyU</li>
+        <li><b>Kaiqi LI</b>, PolyU</li>
         <li><b>Sheqiang CUI</b>, PolyU</li>
     </ul>
     <br>
