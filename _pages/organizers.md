@@ -27,6 +27,7 @@ nav_order: 1
         <li><b>Weijian LIANG</b>, PolyU</li>
         <li><b>Kaiqi LI</b>, PolyU</li>
         <li><b>Sheqiang CUI</b>, PolyU</li>
+        <li><b>Ning ZHANG</b>, PolyU</li>
     </ul>
     <br>
     <h5>Member</h5>
